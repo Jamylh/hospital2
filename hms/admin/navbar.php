@@ -63,9 +63,9 @@
 
                                  </ul>
                              </li>
-                             <li class="Dropdown"><a href="liyaqa/liyaqh.php"><i class="fa fa-stethoscope fa-2x"></i><Br/>التثقيف الصحي</a></li>
+                             <li class="Dropdown"><a href="../liyaqa/liyaqh.php"><i class="fa fa-stethoscope fa-2x"></i><Br/>التثقيف الصحي</a></li>
 
-                                    <li class="Dropdown"><a href="liyaqa/liyaqh.php"><i class="fa fa-stethoscope fa-2x"></i><Br/>اللياقة الطبية</a></li>
+                                    <li class="Dropdown"><a href="../liyaqa/liyaqh.php"><i class="fa fa-stethoscope fa-2x"></i><Br/>اللياقة الطبية</a></li>
                                     <li class="Dropdown"><a href="#"><i class="fa fa-users fa-2x"></i><Br/>خدمات التوظيف</a>
                                         <ul class="part-Dropdown">
                                            <li class="li"><a href="#"><i class="fa fa-handshake-o fa-1x"></i> التوظيف </a></li>
@@ -75,11 +75,11 @@
                                      <li class="Dropdown"><a href="sleep.php"><i class="fa fa-user-o fa-2x"></i><Br/>الخدمات الالكترونية</a>
                                         <ul class="part-Dropdown">
                                            <li class="li"><a href="../user-login.php"><i class="fa fa-calendar-check-o fa-1x"></i> حجز </a></li>
-                                           <li class="li"><a href="examination.php"><i class="fa fa-search fa-1x"></i> استعلام </a></li>
+                                           <li class="li"><a href="../examination.php"><i class="fa fa-search fa-1x"></i> استعلام </a></li>
                                         </ul>
                                     </li>
-                                    <li class="Dropdown"><a href="about-us.php"><i class="fa fa-user-md fa-2x" ></i><Br/>عن المستشفى</a></li>
-                                    <li class="Dropdown"><a href="contact.php"><i class="fa fa-user-md fa-2x" ></i><Br/>اتصل بنا</a></li>
+                                    <li class="Dropdown"><a href="../about-us.php"><i class="fa fa-user-md fa-2x" ></i><Br/>عن المستشفى</a></li>
+                                    <li class="Dropdown"><a href="../contact.php"><i class="fa fa-user-md fa-2x" ></i><Br/>اتصل بنا</a></li>
 
                                     </ul>
                              </div>
