@@ -11,9 +11,15 @@
                       </div>
 
                             <div class="col col-lg-2">
-                                    <form class="form-inline">
-                                            <button class="btn my-2 my-sm-0" type="submit"> <a href="#" >English</a></button>
-                                    </form>
+            <div id="google_translate_element"></div>
+ 
+ <script type="text/javascript">
+ function googleTranslateElementInit() {
+   new google.translate.TranslateElement({pageLanguage: 'ar'}, 'google_translate_element');
+ }
+ </script>
+ 
+ <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
  
                             </div>
                           </div>
@@ -36,7 +42,7 @@
                         <nav id="nav">
                             <div class="col-lg-12 text-center">
                                 <ul>
-                                        <li class="Dropdown"><a href="../index.php"><i class="fa fa-home fa-2x "></i><Br/> الرئيسية </a></li>
+                                        <li class="Dropdown"><a href="../ho/index.php"><i class="fa fa-home fa-2x "></i><Br/> الرئيسية </a></li>
                                         <li li class="Dropdown"><a href="#"><i class="fas fa-pills fa-1x"></i><Br/>الاقسام الطبيه</a>
                                              <ul class="part-Dropdown">
                                                <li class="li"><a href="#"><i class="fa fa-h-square  fa-1x"></i> العيادات </a>
@@ -99,9 +105,9 @@
     
                                      </ul>
                                  </li>
-                                 <li class="Dropdown"><a href="liyaqh.html"><i class="fa fa-stethoscope fa-2x"></i><Br/>التثقيف الصحي</a></li>
+                                 <li class="Dropdown"><a href="liyaqh.php"><i class="fa fa-stethoscope fa-2x"></i><Br/>التثقيف الصحي</a></li>
     
-                                        <li class="Dropdown"><a href="liyaqh.html"><i class="fa fa-stethoscope fa-2x"></i><Br/>اللياقة الطبية</a></li>
+                                        <li class="Dropdown"><a href="liyaqh.php"><i class="fa fa-stethoscope fa-2x"></i><Br/>اللياقة الطبية</a></li>
                                         <li class="Dropdown"><a href="#"><i class="fa fa-users fa-2x"></i><Br/>خدمات التوظيف</a>
                                             <ul class="part-Dropdown">
                                                <li class="li"><a href="#"><i class="fa fa-handshake-o fa-1x"></i> التوظيف </a></li>
@@ -110,12 +116,12 @@
                                         </li>
                                          <li class="Dropdown"><a href="sleep.php"><i class="fa fa-user-o fa-2x"></i><Br/>الخدمات الالكترونية</a>
                                             <ul class="part-Dropdown">
-                                               <li class="li"><a href="../user-login.html"><i class="fa fa-calendar-check-o fa-1x"></i> حجز </a></li>
-                                               <li class="li"><a href="../examination.php"><i class="fa fa-search fa-1x"></i> استعلام </a></li>
+                                               <li class="li"><a href="../ho/user-login.php"><i class="fa fa-calendar-check-o fa-1x"></i> حجز </a></li>
+                                               <li class="li"><a href="../ho/examination.php"><i class="fa fa-search fa-1x"></i> استعلام </a></li>
                                             </ul>
                                         </li>
-                                        <li class="Dropdown"><a href="../about-us.php"><i class="fa fa-user-md fa-2x" ></i><Br/>عن المستشفى</a></li>
-                                        <li class="Dropdown"><a href="../contact.php"><i class="fa fa-user-md fa-2x" ></i><Br/>اتصل بنا</a></li>
+                                        <li class="Dropdown"><a href="../ho/about-us.php"><i class="fa fa-user-md fa-2x" ></i><Br/>عن المستشفى</a></li>
+                                        <li class="Dropdown"><a href="../ho/contact.php"><i class="fa fa-user-md fa-2x" ></i><Br/>اتصل بنا</a></li>
     
                                 </ul></div>
                         </nav>

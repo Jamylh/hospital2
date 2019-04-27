@@ -24,7 +24,7 @@
           var d = new Date();
           document.getElementById("date").innerHTML = d.toUTCString();
           </script>
-      
+    
 <?php
       include('navbar.php');
       ?>
@@ -65,10 +65,10 @@
                                                       </div>
                                                       <div class="col">
                                                             <h3 style="margin-top: 1.5em;text-align: center; font-size: 25px; margin-right: 38%;">::لــلـــــتــــســــجـــيــل::</h3>
-                                                            <a class="btn" href="../user-login.php" style="text-align: center;width: 63%;margin-top: 2em;">اضــغــط هــنــا</a>
+                                                            <a class="btn" href="../ho/user-login.php" style="text-align: center;width: 63%;margin-top: 2em;">اضــغــط هــنــا</a>
 
                                                             <h3 style="margin-top: 1.5em;text-align: center; font-size: 24px; margin-right: 38%;">::للاستعلام عن نتيجة كشف وظائف::</h3>
-                                                            <a class="btn" href="../examination.php" style="text-align: center;width: 63%;margin-top: 2em;">اضــغــط هــنــا</a>
+                                                            <a class="btn" href="../ho/examination.php" style="text-align: center;width: 63%;margin-top: 2em;">اضــغــط هــنــا</a>
 
                                                       </div>
                                                     </div>
@@ -86,15 +86,7 @@
 					</div>
       
     <div class="footer">
-            <div id="google_translate_element"></div>
- 
- <script type="text/javascript">
- function googleTranslateElementInit() {
-   new google.translate.TranslateElement({pageLanguage: 'ar'}, 'google_translate_element');
- }
- </script>
- 
- <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
                  <div class="wrap">
             <img src="../footer2.png"  alt="King saud hospital"  width="1700" height="180">
              
