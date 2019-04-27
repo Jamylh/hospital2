@@ -168,9 +168,9 @@ exit();
     
                                      </ul>
                                  </li>
-                                 <li class="Dropdown"><a href="liyaqh/liyaqh.php"><i class="fa fa-stethoscope fa-2x"></i><Br/>التثقيف الصحي</a></li>
+                                 <li class="Dropdown"><a href="liyaqa/liyaqh.php"><i class="fa fa-stethoscope fa-2x"></i><Br/>التثقيف الصحي</a></li>
     
-                                        <li class="Dropdown"><a href="liyaqh/liyaqh.php"><i class="fa fa-stethoscope fa-2x"></i><Br/>اللياقة الطبية</a></li>
+                                        <li class="Dropdown"><a href="../liyaqa/liyaqh.php"><i class="fa fa-stethoscope fa-2x"></i><Br/>اللياقة الطبية</a></li>
                                         <li class="Dropdown"><a href="#"><i class="fa fa-users fa-2x"></i><Br/>خدمات التوظيف</a>
                                             <ul class="part-Dropdown">
                                                <li class="li"><a href="#"><i class="fa fa-handshake-o fa-1x"></i> التوظيف </a></li>
