@@ -63,7 +63,7 @@
 
                                  </ul>
                              </li>
-                             <li class="Dropdown"><a href="liyaqa/liyaqh.php"><i class="fa fa-stethoscope fa-2x"></i><Br/>التثقيف الصحي</a></li>
+                             <li class="Dropdown"><a href="../liyaqa/liyaqh.php"><i class="fa fa-stethoscope fa-2x"></i><Br/>التثقيف الصحي</a></li>
 
                                     <li class="Dropdown"><a href="../liyaqa/liyaqh.php"><i class="fa fa-stethoscope fa-2x"></i><Br/>اللياقة الطبية</a></li>
                                     <li class="Dropdown"><a href="#"><i class="fa fa-users fa-2x"></i><Br/>خدمات التوظيف</a>
